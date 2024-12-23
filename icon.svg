@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="icon-origin.svg"
+   sodipodi:docname="icon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
-     inkscape:zoom="1.85951"
-     inkscape:cx="10.486634"
-     inkscape:cy="114.27742"
+     inkscape:zoom="3.71902"
+     inkscape:cx="40.736538"
+     inkscape:cy="73.271991"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g4" />
   <defs
      id="defs1">
     <inkscape:perspective
@@ -43,90 +43,39 @@
        id="perspective16" />
   </defs>
   <g
-     inkscape:label="inverted"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:none">
-    <rect
-       style="display:inline;fill:#7e00fe;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
-       id="rect2"
-       width="100"
-       height="100"
-       x="0"
-       y="0"
-       inkscape:label="background" />
-    <path
-       id="rect27"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M 0,0 V 100 H 100 V 0 Z M 10,10 H 90 V 90 H 10 Z"
-       inkscape:label="outline" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';text-align:start;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:none;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="17.110483"
-       y="79.999985"
-       id="text30"
-       inkscape:label="text"><tspan
-         x="0"
-         y="0"
-         id="tspan30"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';stroke-width:0"
-         inkscape:label="tspan29">Fr</tspan></text>
-    <path
-       d="M 20,79.999985 V 49.999997 h 6.671386 V 79.999985 Z M 25.099149,68.229451 V 62.49291 h 14.999994 v 5.736541 z m 0,-12.492913 v -5.736541 h 15.67988 v 5.736541 z m 19.376769,24.263447 v -20.65155 h 6.501414 v 20.65155 z M 50.977332,68.65438 48.257786,66.529735 q 0.807365,-3.611896 2.719546,-5.609063 1.91218,-1.997166 5.311612,-1.997166 1.487252,0 2.592067,0.467422 1.147308,0.424929 1.997166,1.359773 l -3.866853,4.886683 q -0.424929,-0.467422 -1.062323,-0.722379 -0.637394,-0.254957 -1.444759,-0.254957 -1.61473,0 -2.592067,1.019829 -0.934843,0.977337 -0.934843,2.974503 z"
-       id="text2"
-       style="font-weight:bold;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';baseline-shift:baseline;fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
-       inkscape:label="rendered-text"
-       aria-label="Fr" />
-    <rect
-       style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
-       id="rect1"
-       width="16.402"
-       height="6"
-       x="60.877998"
-       y="74"
-       inkscape:label="underbar" />
-  </g>
-  <g
      inkscape:label="main"
      inkscape:groupmode="layer"
      id="g4"
      style="display:inline">
     <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
+       style="display:inline;fill:#7e00fe;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
        id="rect3"
        width="100"
        height="100"
        x="0"
        y="0"
        inkscape:label="background" />
-    <path
-       id="path3"
-       style="display:inline;fill:#7e00fe;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M 0,0 V 100 H 100 V 0 Z M 10,10 H 90 V 90 H 10 Z"
-       inkscape:label="outline" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';text-align:start;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:none;fill:#7e00fe;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';text-align:start;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:none;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        x="17.110483"
        y="79.999985"
        id="text3"
        inkscape:label="text"><tspan
-         x="0"
-         y="0"
+         x="17.110483"
+         y="79.999985"
          id="tspan3"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#7e00fe;fill-opacity:1;stroke-width:0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;fill-opacity:1;stroke-width:0"
          inkscape:label="tspan29">Fr</tspan></text>
     <path
        d="M 20,79.999985 V 49.999997 h 6.671386 V 79.999985 Z M 25.099149,68.229451 V 62.49291 h 14.999994 v 5.736541 z m 0,-12.492913 v -5.736541 h 15.67988 v 5.736541 z m 19.376769,24.263447 v -20.65155 h 6.501414 v 20.65155 z M 50.977332,68.65438 48.257786,66.529735 q 0.807365,-3.611896 2.719546,-5.609063 1.91218,-1.997166 5.311612,-1.997166 1.487252,0 2.592067,0.467422 1.147308,0.424929 1.997166,1.359773 l -3.866853,4.886683 q -0.424929,-0.467422 -1.062323,-0.722379 -0.637394,-0.254957 -1.444759,-0.254957 -1.61473,0 -2.592067,1.019829 -0.934843,0.977337 -0.934843,2.974503 z"
        id="path4"
-       style="font-weight:bold;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';baseline-shift:baseline;fill:#7e00fe;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
+       style="font-weight:bold;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';baseline-shift:baseline;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
        inkscape:label="rendered-text"
        aria-label="Fr" />
     <rect
-       style="fill:#7e00fe;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
        id="rect4"
        width="16.402"
        height="6"
