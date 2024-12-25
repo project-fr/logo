@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="icon.svg"
+   sodipodi:docname="Fr_.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,13 +25,13 @@
      inkscape:document-units="px"
      inkscape:zoom="3.71902"
      inkscape:cx="40.736538"
-     inkscape:cy="73.271991"
+     inkscape:cy="73.003103"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4" />
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <inkscape:perspective
@@ -42,22 +42,20 @@
        inkscape:persp3d-origin="50 : 33.333333 : 1"
        id="perspective16" />
   </defs>
+  <rect
+     style="display:inline;fill:#7e00fe;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
+     id="rect3"
+     width="100"
+     height="100"
+     x="0"
+     y="0"
+     inkscape:label="background" />
   <g
-     inkscape:label="main"
-     inkscape:groupmode="layer"
-     id="g4"
-     style="display:inline">
-    <rect
-       style="display:inline;fill:#7e00fe;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
-       id="rect3"
-       width="100"
-       height="100"
-       x="0"
-       y="0"
-       inkscape:label="background" />
+     id="g1"
+     inkscape:label="text">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';text-align:start;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:none;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="display:none;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';text-align:start;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        x="17.110483"
        y="79.999985"
        id="text3"
@@ -71,16 +69,16 @@
     <path
        d="M 20,79.999985 V 49.999997 h 6.671386 V 79.999985 Z M 25.099149,68.229451 V 62.49291 h 14.999994 v 5.736541 z m 0,-12.492913 v -5.736541 h 15.67988 v 5.736541 z m 19.376769,24.263447 v -20.65155 h 6.501414 v 20.65155 z M 50.977332,68.65438 48.257786,66.529735 q 0.807365,-3.611896 2.719546,-5.609063 1.91218,-1.997166 5.311612,-1.997166 1.487252,0 2.592067,0.467422 1.147308,0.424929 1.997166,1.359773 l -3.866853,4.886683 q -0.424929,-0.467422 -1.062323,-0.722379 -0.637394,-0.254957 -1.444759,-0.254957 -1.61473,0 -2.592067,1.019829 -0.934843,0.977337 -0.934843,2.974503 z"
        id="path4"
-       style="font-weight:bold;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';baseline-shift:baseline;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
-       inkscape:label="rendered-text"
+       style="display:inline;font-weight:bold;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';baseline-shift:baseline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
+       inkscape:label="text"
        aria-label="Fr" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
        id="rect4"
        width="16.402"
-       height="6"
+       height="5.737"
        x="60.877998"
-       y="74"
+       y="74.263"
        inkscape:label="underbar" />
   </g>
 </svg>
