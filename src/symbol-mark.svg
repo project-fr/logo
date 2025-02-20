@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="Fr_.svg"
+   sodipodi:docname="symbol-mark.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
-     inkscape:zoom="3.71902"
-     inkscape:cx="40.736538"
-     inkscape:cy="73.003103"
+     inkscape:zoom="5.7513468"
+     inkscape:cx="58.681907"
+     inkscape:cy="48.945058"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -33,52 +33,33 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <defs
-     id="defs1">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 50 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="100 : 50 : 1"
-       inkscape:persp3d-origin="50 : 33.333333 : 1"
-       id="perspective16" />
-  </defs>
+     id="defs1" />
   <rect
-     style="display:inline;fill:#7e00fe;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
-     id="rect3"
+     style="fill:#7e00fe;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     id="rect1"
      width="100"
      height="100"
      x="0"
      y="0"
-     inkscape:label="background" />
-  <g
-     id="g1"
-     inkscape:label="text">
-    <text
-       xml:space="preserve"
-       style="display:none;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';text-align:start;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       x="17.110483"
-       y="79.999985"
-       id="text3"
-       inkscape:label="text"><tspan
-         x="17.110483"
-         y="79.999985"
-         id="tspan3"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;fill-opacity:1;stroke-width:0"
-         inkscape:label="tspan29">Fr</tspan></text>
-    <path
-       d="M 20,79.999985 V 49.999997 h 6.671386 V 79.999985 Z M 25.099149,68.229451 V 62.49291 h 14.999994 v 5.736541 z m 0,-12.492913 v -5.736541 h 15.67988 v 5.736541 z m 19.376769,24.263447 v -20.65155 h 6.501414 v 20.65155 z M 50.977332,68.65438 48.257786,66.529735 q 0.807365,-3.611896 2.719546,-5.609063 1.91218,-1.997166 5.311612,-1.997166 1.487252,0 2.592067,0.467422 1.147308,0.424929 1.997166,1.359773 l -3.866853,4.886683 q -0.424929,-0.467422 -1.062323,-0.722379 -0.637394,-0.254957 -1.444759,-0.254957 -1.61473,0 -2.592067,1.019829 -0.934843,0.977337 -0.934843,2.974503 z"
-       id="path4"
-       style="display:inline;font-weight:bold;font-size:42.4929px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';baseline-shift:baseline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
-       inkscape:label="text"
-       aria-label="Fr" />
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square"
-       id="rect4"
-       width="16.402"
-       height="5.737"
-       x="60.877998"
-       y="74.263"
-       inkscape:label="underbar" />
-  </g>
+     inkscape:label="bg"
+     sodipodi:insensitive="true" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+     x="17.27"
+     y="81.150002"
+     id="text3"
+     inkscape:label="txt"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="0"
+       y="0">PRJ FR</tspan></text>
+  <path
+     d="m 21.03,76.010002 v -2.44 h 3.04 q 0.58,0 1.06,-0.24 0.48,-0.24 0.76,-0.7 0.28,-0.46 0.28,-1.12 0,-0.64 -0.28,-1.1 -0.28,-0.46 -0.76,-0.7 -0.48,-0.24 -1.06,-0.24 h -3.04 v -2.44 h 3.5 q 1.34,0 2.42,0.54 1.08,0.54 1.7,1.56 0.64,1 0.64,2.38 0,1.38 -0.64,2.4 -0.62,1 -1.7,1.56 -1.08,0.54 -2.42,0.54 z m -2.4,5.14 v -14.12 h 3.14 v 14.12 z m 14.820006,-5.82 v -2.32 h 2.98 q 0.94,0 1.44,-0.48 0.52,-0.48 0.52,-1.3 0,-0.76 -0.5,-1.26 -0.5,-0.5 -1.44,-0.5 h -3 v -2.44 h 3.36 q 1.4,0 2.46,0.54 1.06,0.52 1.66,1.46 0.6,0.94 0.6,2.16 0,1.24 -0.6,2.18 -0.6,0.92 -1.68,1.44 -1.08,0.52 -2.54,0.52 z m -2.4,5.82 v -14.12 h 3.14 v 14.12 z m 7.68,0 -4.4,-6.08 2.88,-0.78 5.24,6.86 z m 7.940016,0.22 q -1.34,0 -2.34,-0.48 -0.98,-0.5 -1.68,-1.38 l 2.1,-2.02 q 0.36,0.5 0.84,0.76 0.5,0.26 1.12,0.26 0.6,0 1.04,-0.24 0.44,-0.26 0.7,-0.72 0.26,-0.48 0.26,-1.18 v -9.34 h 3.16 v 9.16 q 0,1.58 -0.64,2.74 -0.64,1.16 -1.8,1.8 -1.16,0.64 -2.76,0.64 z m 11.500002,-0.22 v -14.12 h 3.14 v 14.12 z m 2.4,-5.54 v -2.7 h 7.06 v 2.7 z m 0,-5.88 v -2.7 h 7.38 v 2.7 z m 11.800003,5.6 v -2.32 h 2.98 q 0.94,0 1.44,-0.48 0.52,-0.48 0.52,-1.3 0,-0.76 -0.5,-1.26 -0.5,-0.5 -1.44,-0.5 h -3 v -2.44 h 3.36 q 1.4,0 2.46,0.54 1.06,0.52 1.66,1.46 0.6,0.94 0.6,2.16 0,1.24 -0.6,2.18 -0.6,0.92 -1.68,1.44 -1.08,0.52 -2.54,0.52 z m -2.4,5.82 v -14.12 h 3.14 v 14.12 z m 7.68,0 -4.4,-6.08 2.88,-0.78 5.24,6.86 z"
+     id="text4"
+     style="font-weight:bold;font-size:20px;line-height:0;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;stroke-width:0;stroke-linecap:square"
+     inkscape:label="txt"
+     aria-label="PRJ FR"
+     sodipodi:insensitive="true" />
 </svg>
