@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "svgo -rf src -o build"
+    "build": "svgo -rf src -o build"
   },
   "devDependencies": {
     "svgo": "^3.3.2"
