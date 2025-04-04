@@ -1,0 +1,8 @@
+{
+  "name": "build-logic",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "svgo": "^3.3.2"
+  }
+}
