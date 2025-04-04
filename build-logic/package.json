@@ -2,6 +2,9 @@
   "name": "build-logic",
   "private": true,
   "type": "module",
+  "scripts": {
+    "start": "svgo --config svgo.config.mjs -rf ../src -o ../build"
+  },
   "devDependencies": {
     "svgo": "^3.3.2"
   }
