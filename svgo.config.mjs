@@ -1,4 +1,4 @@
-/** @type import("svgo").Config */
+/** @type {import("svgo").Config} */
 export default {
   multipass: true,
   floatPrecision: 8,
